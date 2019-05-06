@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tony Stark</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="soul">
+        "The Soul Stone is a remnant of one of the six singularities which existed before the universe's creation.\n"
+
+        "After the universe came into existence, four cosmic beings known as the Cosmic Entities forged the energies of these singularities into six immensely powerful objects called the Infinity Stones."
+        "The Soul Stone represented the soul. It would later go on to cultivate a reputation of mystery throughout the galaxy."
+        "Even those who were well versed in the powers, and even locations, of the other five Stones, had little concrete knowledge regarding the Soul Stone to the point of only knowing its name."
+        "Despite, or perhaps because of, this aura of mystery, it would eventually be considered as the most dangerous of all the Infinity Stones. Even the Asgardians knew little of the stone, with Thor stating no one had ever seen it or knew where it was."
+    </string>
+    <string name="profile">Profile</string>
+
+    <string name="tony">Tony Stark</string>
+    <string name="captain">Captain America</string>
+
+    <string name="tony_profile">
+        "Tony is a middle-aged man of average height. He is an American, has Caucasian skin, and brown eyes. He has black hair, which is mostly kept in a rough-edged manner on some occasions, most especially when he works.\n\n""He is very well groomed when it comes to special occasions, and he usually wears either very formal or simple clothing in a way that matches his wealth. Tony has a mustache that runs all the way down to his cheeks, then straight to his chin making an enclosed form, with a small goatee as well on his upper chin.\n\n""In the films, Tony has been seen wearing many types of clothing. One as such can be his famous Black Sabbath shirt, which is a black shirt with the name of the famous old band called the Black Sabbath, which is a band in the Real World. Other clothing he wore, was a black tuxedo, a white tuxedo, and other clothing.\n\n"
+    </string>
+    <string name="super_hero_friends">Super Hero Friends</string>
+    <string name="a_k_a_iron_man">a.k.a Iron Man</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="want_to_see_tony_profile">Want to see Tony Profile?</string>
+
+</resources>
